@@ -24,9 +24,14 @@ namespace Application1
                 Divide(num1, num2);
                 break;
 
+                case 'happy':
+                Console.WriteLine("be happy )0");
+
                 default:
                 Console.WriteLine("Ошибка");
                 break;
+
+                
             }
         }
 
